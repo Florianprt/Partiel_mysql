@@ -1,10 +1,4 @@
 <?php
-/**
- * Request Class
- *
- * @version 2.2
- * @date updated Dec 23, 2015
- */
 
 namespace Helpers;
 

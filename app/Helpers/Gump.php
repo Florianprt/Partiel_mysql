@@ -1,14 +1,4 @@
 <?php
-/**
- * GUMP
- *
- * @author      Sean Nieuwoudt (http://twitter.com/SeanNieuwoudt)
- * @copyright   Copyright (c) 2014 Wixelhq.com
- * @link        http://github.com/Wixel/GUMP
- * @version     1.0
- * @date updated Sept 19, 2015
- */
-
 namespace Helpers;
 
 /**

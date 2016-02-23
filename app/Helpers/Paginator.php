@@ -1,11 +1,4 @@
 <?php
-/**
- * PHP Pagination Class
- *
- * @author David Carr - dave@daveismyname.com
- * @version 2.2
- * @date updated Sept 19, 2015
- */
 
 namespace Helpers;
 

@@ -1,12 +1,4 @@
 <?php
-/**
- * Table builder class
- *
- * @author Volter9 - https://github.com/Volter9
- * @version 2.2
- * @date Sept 22, 2014
- * @date updated Sept 19, 2015
- */
 
 namespace Helpers;
 

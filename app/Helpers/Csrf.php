@@ -1,11 +1,4 @@
 <?php
-/**
- * Cross Site Request Forgery helper
- *
- * @author jimgwhit
- * @date May 23 2015
- * @date updated Sept 19, 2015
- */
 
 namespace Helpers;
 

@@ -1,13 +1,4 @@
 <?php
-/**
- * Document Helper
- *
- * @author David Carr - dave@daveismyname.com
- * @version 1.0
- * @date May 18 2015
- * @date updated Sept 19, 2015
- */
-
 namespace Helpers;
 
 /**

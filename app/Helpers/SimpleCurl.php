@@ -1,12 +1,4 @@
 <?php
-/**
-* Curl class
-*
-* @author SecretD - https://github.com/SecretD
-* @version 2.2
-* @date Sept 22, 2014
-* @date updated Sept 19, 2015
-*/
 
 namespace Helpers;
 

@@ -1,12 +1,4 @@
 <?php
-/**
- * Data Helper
- *
- * @author David Carr - dave@daveismyname.com
- * @version 1.0
- * @date March 28, 2015
- * @date updated Sept 19, 2015
- */
 
 namespace Helpers;
 

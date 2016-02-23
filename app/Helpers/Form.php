@@ -1,12 +1,4 @@
 <?php
-/**
- * Form Helper
- *
- * @author David Carr - dave@daveismyname.com
- * @version 1.0
- * @date June 27, 2014
- * @date updated Feb 15, 2016
- */
 
 namespace Helpers;
 

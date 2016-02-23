@@ -1,12 +1,4 @@
 <?php
-/**
- * GeoCode Helper
- *
- * @author Mark Parrish - mark@pipcommunications.com - http://www.pipcommunications.com
- * @version 1.0
- * @date April 27, 2015
- * @date updated Sept 19, 2015
- */
 namespace Helpers;
 
 /**

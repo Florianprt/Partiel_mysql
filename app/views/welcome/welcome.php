@@ -8,11 +8,11 @@ use Core\Language;
 ?>
 
 <div class="page-header">
-	<h1><?php echo $data['title'] ?></h1>
+	<h1>PARTIEL MYSQL</h1>
 </div>
 
-<p><?php echo $data['welcome_message'] ?></p>
+<p>Exercice de partiel 3A dev a L'EEMI</p>
 
 <a class="btn btn-md btn-success" href="<?php echo DIR;?>subpage">
-	<?php echo Language::show('open_subpage', 'Welcome'); ?>
+	<?php echo Language::show('Se connecter', 'Welcome'); ?>
 </a>

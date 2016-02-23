@@ -1,11 +1,4 @@
 <?php
-/**
- * Tags Class
- *
- * @author David Carr - dave@daveismyname.com
- * @version 2.2
- * @date Sept 19, 2015
- */
 
 namespace Helpers;
 
